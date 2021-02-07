@@ -1,0 +1,23 @@
+.birnima{
+    overflow-y: hidden;
+}
+
+.dropdown-toggle::after{
+    display: none;
+}
+.logo{
+    width: 60px;
+    border-radius: 50%;
+}
+
+.list-group-item.list-group-item.list-group-item{
+    outline: 0;
+}
+
+.pr-{
+    padding-right: 50%;
+}
+
+.overflow-auto{
+    overflow: auto;
+}
